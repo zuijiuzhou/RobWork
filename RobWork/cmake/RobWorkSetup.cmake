@@ -87,10 +87,8 @@ endif()
 # removed: serialization
 
 find_package(
-    Boost QUIET
+    Boost
     COMPONENTS filesystem system thread program_options date_time
-    CONFIG
-    PATHS "C:/local"
 )
 if(NOT Boost_FOUND)
     find_package(Boost REQUIRED COMPONENTS filesystem system thread program_options date_time)

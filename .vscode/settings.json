@@ -1,0 +1,27 @@
+{
+    "cmake.configureSettings": {
+        "BOOST_ROOT":"R:/opensrc/boost-1.82.0/dist/msvc",
+        "Boost_INCLUDE_DIR":"R:/opensrc/boost-1.82.0/dist/msvc/include/boost-1_82",
+        "Boost_LIBRARY_DIRS":"R:/opensrc/boost-1.82.0/dist/msvc/lib",
+        "Boost_ATOMIC_LIBRARY_DEBUG":"R:/opensrc/boost-1.82.0/dist/msvc/lib/libboost_atomic-vc143-mt-gd-x64-1_82.lib",
+        "Boost_ATOMIC_LIBRARY_RELEASE":"R:/opensrc/boost-1.82.0/dist/msvc/lib/libboost_atomic-vc143-mt-x64-1_82.lib",
+        "Boost_CHRONO_LIBRARY_DEBUG":"R:/opensrc/boost-1.82.0/dist/msvc/lib/libboost_chrono-vc143-mt-gd-x64-1_82.lib",
+        "Boost_CHRONO_LIBRARY_RELEASE":"R:/opensrc/boost-1.82.0/dist/msvc/lib/libboost_chrono-vc143-mt-x64-1_82.lib",
+        "Boost_FILESYSTEM_LIBRARY_DEBUG":"R:/opensrc/boost-1.82.0/dist/msvc/lib/libboost_filesystem-vc143-mt-gd-x64-1_82.lib",
+        "Boost_FILESYSTEM_LIBRARY_RELEASE":"R:/opensrc/boost-1.82.0/dist/msvc/lib/libboost_filesystem-vc143-mt-x64-1_82.lib",
+        "Boost_SYSTEM_LIBRARY_DEBUG":"R:/opensrc/boost-1.82.0/dist/msvc/lib/libboost_system-vc143-mt-gd-x64-1_82.lib",
+        "Boost_SYSTEM_LIBRARY_RELEASE":"R:/opensrc/boost-1.82.0/dist/msvc/lib/libboost_system-vc143-mt-x64-1_82.lib",
+        "Boost_DATE_TIME_LIBRARY_DEBUG":"R:/opensrc/boost-1.82.0/dist/msvc/lib/libboost_date_time-vc143-mt-gd-x64-1_82.lib",
+        "Boost_DATE_TIME_LIBRARY_RELEASE":"R:/opensrc/boost-1.82.0/dist/msvc/lib/libboost_date_time-vc143-mt-x64-1_82.lib",
+        "Boost_THREAD_LIBRARY_DEBUG":"R:/opensrc/boost-1.82.0/dist/msvc/lib/libboost_thread-vc143-mt-gd-x64-1_82.lib",
+        "Boost_THREAD_LIBRARY_RELEASE":"R:/opensrc/boost-1.82.0/dist/msvc/lib/libboost_thread-vc143-mt-x64-1_82.lib",
+        "Boost_PROGRAM_OPTIONS_LIBRARY_DEBUG":"R:/opensrc/boost-1.82.0/dist/msvc/lib/libboost_program_options-vc143-mt-gd-x64-1_82.lib",
+        "Boost_PROGRAM_OPTIONS_LIBRARY_RELEASE":"R:/opensrc/boost-1.82.0/dist/msvc/lib/libboost_program_options-vc143-mt-x64-1_82.lib",
+        "QHULL_ROOT":"R:/opensrc/qhull/dist",
+        //"EIGEN3_ROOT":"R:/opensrc/eigen/dist",
+        "EIGEN3_INCLUDE_DIR":"R:/opensrc/eigen/dist/include/eigen3"
+    },
+    "cmake.configureArgs": [
+        "-Wno-dev"
+    ]
+}

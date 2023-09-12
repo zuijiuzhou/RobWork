@@ -1,5 +1,5 @@
 # *
-# *.vscode
+*.vscode
 *build
 *Build
 *rwsettings.xml
